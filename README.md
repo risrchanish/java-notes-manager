@@ -24,7 +24,7 @@ A console-based Notes Manager built in Java. This application allows users to cr
    cd text-notes-manager-java
 
 2. Compile and code
- - `javac notesmanager/*.java`
+ - `javac risrchanish.notes_manager/*.java`
 
 4. Example usage
    --- Notes Manager ---
